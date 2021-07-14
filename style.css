@@ -94,7 +94,7 @@ footer p{
     font-size: 20px;
 }
 
-@media only screen and (max-width:688px) {
+@media only screen and (max-width:680px) {
     nav{
         padding: 30px 15px;
     }
@@ -118,7 +118,7 @@ footer p{
     .main-header{
         margin-left: 16px;
     }
-    .players{
+    .player{
         grid-template-columns: repeat(1, 1fr);
         width: 100%;
         display: flex;
